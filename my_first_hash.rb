@@ -5,6 +5,7 @@ coins = {
   
 }
   
+  coins
 end
 
 
