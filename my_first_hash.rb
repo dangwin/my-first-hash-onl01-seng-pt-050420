@@ -1,7 +1,7 @@
-def my_hash(coins)
-coins = {
-  "quarters" => 25, 
-  "dimes" => 10
+def my_hash()
+my_hash= {
+  "quarters" => "25", 
+  "dimes" => "10"
   
 }
   
