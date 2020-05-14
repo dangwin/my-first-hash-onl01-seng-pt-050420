@@ -1,6 +1,7 @@
 def my_hash(coins)
 coins = {
-  quart
+  "quarters" => "25"
+  "dimes" => "10"
   
 }
   
